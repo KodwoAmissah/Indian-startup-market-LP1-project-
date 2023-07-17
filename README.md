@@ -18,4 +18,5 @@ The 2018 and 2019 startup funding is included in this repository.
 |:--------------:|:--------------:|:--------------:|:--------------:|
 |  Indian Startup Ecosystem(LP1)      | Indian startup ecosystem has seen remarkable growth through funding over the years  |           |        |
 
-
+## Author 
+Kodwo Amissah-Mensah
