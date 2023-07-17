@@ -1,14 +1,21 @@
 ## DESCRIPTION
 Indian Startup Market
 
-To be able to understand what brought up the success in the indian ecosystem,the problem enatails analyzing the funding received by funding from 2018-2021.
+The Indian start-up ecosystem has witnessed remarkable growth and gained significant attention in recent years. Funding plays a pivotal role in driving the growth and success of start-ups, enabling them to scale their operations, foster innovation, and create a lasting impact. Therefore, the aim of this "Indian Start-up Funding Analysis" project is to gain a comprehensive understanding of the funding landscape for start-ups in India from 2018 to 2021. By analyzing the funding data, the project seeks to uncover trends, patterns, and factors influencing start-up funding in India. 
+
 
 
 ## OBJECTIVE
-To find patterns in the data about the amount used,the sector,what the company does and who or what company are investors by using analytical or statistical techniques to look at the performance on funding.
+The objective includes evaluating and leveraging the thriving indian startup ecosystem and the impact of funding on start-up success, identifying sectors attracting the most investment, and providing actionable insights for stakeholders. The analysis will focus on the distribution of funding amounts reached.The goal of this analysis is to determine the most effective approach for investment,find patterns in the data by using analytical or statistical techniques to look at the performance on funding and also aims to empower stakeholders with knowledge and insights to navigate the Indian start-up ecosystem effectively. 
 
 
 ## DATASETS
 The 2018 and 2019 startup funding is included in this repository.
+
+## Summary
+
+ | Project's Name | Description    | Published Article  | Deployed PowerBi 
+|:--------------:|:--------------:|:--------------:|:--------------:|
+|  Indian Startup Ecosystem(LP1)      | Indian startup ecosystem has seen remarkable growth through funding over the years  |           |        |
 
 
