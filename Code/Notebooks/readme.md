@@ -1,1 +1,1 @@
-The 2020 and 2021 dataset was converted to csv beacuse it resides in a database and you need some credentials to get it.To protect the integrity of the dataset and the database,the credentials will can not given out hence the reason to convert
+The 2020 and 2021 dataset was converted to csv beacuse it resides in a database and you need some credentials to get it.To protect the integrity of the dataset and the database,the credentials can not be given out hence the reason to convert
