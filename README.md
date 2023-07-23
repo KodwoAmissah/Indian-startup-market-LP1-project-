@@ -16,7 +16,7 @@ The 2018 and 2019 startup funding is included in this repository.
 
  | Project's Name | Description    | Published Article  | Deployed PowerBi 
 |:--------------:|:--------------:|:--------------:|:--------------:|
-|  Indian Startup Ecosystem(LP1)      | Indian startup ecosystem has seen remarkable growth through funding over the years  |           |    [Power BI Dashboard](https://app.powerbi.com/links/kgGfSmdHxh?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)    |
+|  Indian Startup Ecosystem(LP1)      | Indian startup ecosystem has seen remarkable growth through funding over the years  |        [Project Article](https://medium.com/@kodwoam/understanding-and-exploring-the-startup-ecosystem-in-india-1129cf69d60b)   |    [Power BI Dashboard](https://app.powerbi.com/links/kgGfSmdHxh?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)    |
 
 ## Author 
 Kodwo Amissah-Mensah
