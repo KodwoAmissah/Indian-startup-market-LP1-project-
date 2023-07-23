@@ -10,7 +10,7 @@ The objective includes evaluating and leveraging the thriving indian startup eco
 
 
 ## DATASETS
-The 2018 and 2019 startup funding is included in this repository.
+All datasets are included in this repository.
 
 ## Summary
 
