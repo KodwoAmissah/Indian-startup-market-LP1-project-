@@ -1,1 +1,1 @@
-The 2020 and 2021 dataset was not added beacuse it resides in a database and you need some credentials to get it.To protect the integrity of the dataset,the credentials will not be added here.
+The 2020 and 2021 dataset was coverted to csv beacuse it resides in a database and you need some credentials to get it.To protect the integrity of the dataset,the credentials will can not given out hence the coversion.
